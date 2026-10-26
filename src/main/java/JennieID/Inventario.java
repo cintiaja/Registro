@@ -9,7 +9,7 @@ class Inventario {
         this.contador = 0;
     }
 
-    // Operaciones del TDA (Sección 1)
+
     public boolean agregarRegistro(Registro r) {
         if (contador < arregloRegistros.length) {
             arregloRegistros[contador] = r;

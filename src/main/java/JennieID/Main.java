@@ -105,7 +105,7 @@ public class Main {
                     break;
 
                 case 8:
-                    System.out.println("Saliendo del programa. ¡Mucho éxito con tu tarea!");
+                    System.out.println("Saliendo del programa. ¡Muchas gracias");
                     break;
 
                 default:
